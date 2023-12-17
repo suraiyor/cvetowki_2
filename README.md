@@ -99,6 +99,7 @@ Summarize your implementation experience, emphasizing key takeaways and lessons 
 Remember to tailor your description based on the specific details of the paper you implemented and the choices you made during the implementation process.
 
 
+![Uploading Снимок экрана 2023-12-17 в 17.46.11.png…]()
 
 
 
